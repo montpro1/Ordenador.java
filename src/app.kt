@@ -17,7 +17,7 @@ var ratonB=Raton("psaux")
 var miComp=Computer(cpu = ("i5"),raton = ("raton"))
     miComp.memoria=4000
 
-
+//hola este es el commit
 
 
 
