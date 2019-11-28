@@ -14,10 +14,10 @@ var ratonB=Raton("psaux")
     println(miComputadora1.tipo)
     var ratonSorpresa=Raton("ay")
     println(ratonSorpresa.tipo)
-var miComp=Computer(cpu = ("i5"),raton = ("raton"))
-    miComp.memoria=4000
 
-//hola este es el commit
+    miComputadora.memoria=4000
+    println(miComputadora.memoria)
+
 
 
 
