@@ -19,7 +19,6 @@ var ratonB=Raton("psaux")
     println(miComputadora.memoria)
 
 //COMMIT
-    
-
+//
 
 }
